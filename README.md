@@ -1,10 +1,10 @@
 # GRACE: GPT Reprogrammable Assistant with Code Execution
 
-**Important:** The war in Ukraine is still ongoing. Every day, Russian soldiers rape, murder, torture and deport Ukrainian civilians. Visit [this page](https://war.ukraine.ua/support-ukraine/) to see how you can support Ukraine today.
+**Important:** The war in Ukraine is still ongoing. Every day, Russian soldiers rape, murder, torture and deport Ukrainian civilians. Visit [this page] to see how you can support Ukraine today.
 
-GRACE leverages the OpenAI API to implement a human-like chatbot that's capable of retrieving information from a knowledge base and processing the customers' requests via an API backend. It showcases how large language models can be made to interact with external systems for knowledge retrieval and performing actions in the real world. Learn more in the [announcement blog post](https://artmatsak.com/post/grace/).
+GRACE leverages the OpenAI API to implement a human-like chatbot that's capable of retrieving information from a knowledge base and processing the customers' requests via an API backend. It showcases how large language models can be made to interact with external systems for knowledge retrieval and performing actions in the real world. Learn more in the [announcement blog post].
 
-**Update April 5, 2023:** [Horace](https://github.com/artmatsak/horace), my new project, builds upon the ideas in GRACE to offer an LLM chatbot server with support for ChatGPT plugins. Check it out!
+**Update April 5, 2023:** [Horace], my new project, builds upon the ideas in GRACE to offer an LLM chatbot server with support for ChatGPT plugins. Check it out!
 
 The default configuration implements an AI assistant for Death Star, an imaginary Star Wars-themed restaurant in Cupertino, CA. The assistant is instructed to impersonate Jedi Master Yoda.
 
